@@ -4387,7 +4387,7 @@
 - [pandao/editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component).
 - [MacDownApp/macdown](https://github.com/MacDownApp/macdown) - Open source Markdown editor for macOS.
 - [ksky521/nodeppt](https://github.com/ksky521/nodeppt) - This is probably the best web presentation tool so far!
-- [ryanlelek/Raneto](https://github.com/ryanlelek/Raneto) - Markdown powered Knowledgebase for Nodejs
+- [ryanlelek/Raneto](https://github.com/ryanlelek/Raneto) - Markdown powered Knowledgebase Wiki for Node.js
 - [SheetJS/j](https://github.com/SheetJS/j) - :x: Multi-format spreadsheet CLI (now merged in http://github.com/sheetjs/js-xlsx )
 - [munificent/game-programming-patterns](https://github.com/munificent/game-programming-patterns) - Source repo for the book
 - [benbalter/word-to-markdown](https://github.com/benbalter/word-to-markdown) - A ruby gem to liberate content from Microsoft Word documents
@@ -4688,7 +4688,7 @@
 - [nodejs/nan](https://github.com/nodejs/nan) - Native Abstractions for Node.js
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 - [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
-- [ryanlelek/Raneto](https://github.com/ryanlelek/Raneto) - Markdown powered Knowledgebase for Nodejs
+- [ryanlelek/Raneto](https://github.com/ryanlelek/Raneto) - Markdown powered Knowledgebase Wiki for Node.js
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [shelljs/shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
 - [linnovate/mean](https://github.com/linnovate/mean) - The MEAN stack uses Mongo, Express, Angular(6) and Node for simple and scalable fullstack js applications
@@ -5102,7 +5102,6 @@
 - [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer's guide to live longer
 - [Cirru/hovenia-editor](https://github.com/Cirru/hovenia-editor) - Canvas based syntax tree editor
 - [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++
-- [yifengyou/skill-driving](https://github.com/yifengyou/skill-driving) - 驾考记录-学习笔记~
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
 - [chaos-mesh/bpfki](https://github.com/chaos-mesh/bpfki) - A BPF-based kernel fault injection service
 - [naaive/orange](https://github.com/naaive/orange) - Cross-platform local file search engine.
@@ -5123,7 +5122,7 @@
 - [dginev/CorTeX](https://github.com/dginev/CorTeX) - A general purpose processing framework for corpora of scientific documents
 - [brucemiller/LaTeXML](https://github.com/brucemiller/LaTeXML) - LaTeXML: a TeX and LaTeX to XML/HTML/ePub/MathML translator.
 - [yobibyte/ar5iv_chrome_ext](https://github.com/yobibyte/ar5iv_chrome_ext) - automatically replace Arxiv.org pdf links with ar5iv
-- [rome/tools](https://github.com/rome/tools) - The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
+- [rome/tools](https://github.com/rome/tools) - The Rome Toolchain. A formatter, linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [jsha/minica](https://github.com/jsha/minica) - minica is a small, simple CA intended for use in situations where the CA operator also operates each host where a certificate will be used.
 - [lukehoban/go-outline](https://github.com/lukehoban/go-outline) - Utility to extract JSON representation of declarations from a Go source file
 - [golang/tools](https://github.com/golang/tools) - [mirror] Go Tools
