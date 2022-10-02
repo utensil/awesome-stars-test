@@ -296,7 +296,7 @@
 - [EbTech/rust-algorithms](https://github.com/EbTech/rust-algorithms) - Common data structures and algorithms in Rust
 - [life4/textdistance](https://github.com/life4/textdistance) - Compute distance between sequences. 30+ algorithms, pure python implementation, common interface, optional external libs usage.
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
-- [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) - Hacktoberfest 2022 coming | World's largest Contributor driven code dataset | Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever enc
+- [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) - Hacktoberfest 2022 | World's largest Contributor driven code dataset | Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter 
 - [zotroneneis/machine_learning_basics](https://github.com/zotroneneis/machine_learning_basics) - Plain python implementations of basic machine learning algorithms
 - [Blankj/awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode) - :crown: LeetCode of algorithms with java solution(updating).
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
@@ -2638,6 +2638,7 @@
 
 ## hacktoberfest 
 
+- [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [axa-group/Parsr](https://github.com/axa-group/Parsr) - Transforms PDF, Documents and Images into Enriched Structured Data
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
@@ -2652,6 +2653,7 @@
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Bu
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
+- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
@@ -2674,6 +2676,7 @@
 - [tinysearch/tinysearch](https://github.com/tinysearch/tinysearch) - 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm
 - [mun-lang/mun](https://github.com/mun-lang/mun) - Source code for the Mun language and runtime.
 - [oreboot/oreboot](https://github.com/oreboot/oreboot) - oreboot is a fork of coreboot, with C removed, written in Rust.
+- [llogiq/flamer](https://github.com/llogiq/flamer) - A compiler plugin to insert flame calls
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [cobbler/cobbler](https://github.com/cobbler/cobbler) - Cobbler is a versatile Linux deployment server
 - [JuliaGPU/GPUCompiler.jl](https://github.com/JuliaGPU/GPUCompiler.jl) - Reusable compiler infrastructure for Julia GPU backends.
@@ -2684,6 +2687,7 @@
 - [ketola/jlibra](https://github.com/ketola/jlibra) - A Java library for building applications on Diem (previously known as Libra)
 - [citation-style-language/styles](https://github.com/citation-style-language/styles) - Official repository for Citation Style Language (CSL) citation styles.
 - [GrayJack/coreutils](https://github.com/GrayJack/coreutils) - Core utils re-implementation for UNIX/UNIX-like systems written in Rust
+- [llogiq/momo](https://github.com/llogiq/momo) - A Rust proc_macro_attribute to outline conversions from generic functions
 - [TooAngel/screeps](https://github.com/TooAngel/screeps) - TooAngel NPC / bot / source code for screeps
 - [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Git repository summary in your terminal
@@ -2728,6 +2732,7 @@
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
 - [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
 - [glpi-project/glpi](https://github.com/glpi-project/glpi) - GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.
+- [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [wix/Detox](https://github.com/wix/Detox) - Gray box end-to-end testing and automation framework for mobile apps
 - [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
@@ -2742,7 +2747,7 @@
 - [snabbdom/snabbdom](https://github.com/snabbdom/snabbdom) - A virtual DOM library with focus on simplicity, modularity, powerful features and performance.
 - [gisce/markdown-blockdiag](https://github.com/gisce/markdown-blockdiag) - blockdiag extension for Python Markdown
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source x64/x32 debugger for windows.
-- [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) - Hacktoberfest 2022 coming | World's largest Contributor driven code dataset | Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever enc
+- [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) - Hacktoberfest 2022 | World's largest Contributor driven code dataset | Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter 
 - [asciidoctor/asciidoctor.js](https://github.com/asciidoctor/asciidoctor.js) - :scroll: A JavaScript port of Asciidoctor, a modern implementation of AsciiDoc
 - [rmusser01/Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) - An Information Security Reference That Doesn't Suck; https://rmusser.net/git/admin-2/Infosec_Reference for non-MS Git hosted version.
 - [rtfpessoa/diff2html](https://github.com/rtfpessoa/diff2html) - Pretty diff to html javascript library (diff2html)
@@ -2776,6 +2781,7 @@
 - [c-w/ghp-import](https://github.com/c-w/ghp-import) - Easily import docs to your gh-pages branch.
 - [luvit/luvit](https://github.com/luvit/luvit) - Lua + libUV + jIT = pure awesomesauce
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A low-level toolkit to create floating elements. Tooltips, popovers, dropdowns, and more
+- [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
 - [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
 - [chinchang/hint.css](https://github.com/chinchang/hint.css) - A CSS only tooltip library for your lovely websites.
 - [you-dont-need/You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively + ESLint Plugin
@@ -2789,6 +2795,7 @@
 - [mefellows/muxy](https://github.com/mefellows/muxy) - Chaos engineering tool for simulating real-world distributed system failures
 - [TalAter/UpUp](https://github.com/TalAter/UpUp) - ✈️ Easily create sites that work offline as well as online
 - [doches/progressbar](https://github.com/doches/progressbar) - An easy-to-use C library for displaying text progress bars.
+- [SalGnt/cscs](https://github.com/SalGnt/cscs) - A curated list of Coding Style Conventions and Standards.
 - [libcpr/cpr](https://github.com/libcpr/cpr) - C++ Requests: Curl for People, a spiritual port of Python Requests.
 - [SFML/SFML](https://github.com/SFML/SFML) - Simple and Fast Multimedia Library
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
@@ -2826,6 +2833,7 @@
 - [SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese) - 中文版 Apple 官方 Swift 教程《The Swift Programming Language》
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
+- [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PS3 emulator/debugger
 - [filhodanuvem/gitql](https://github.com/filhodanuvem/gitql) - 💊 A git query language
 - [stleary/JSON-java](https://github.com/stleary/JSON-java) - A reference implementation of a JSON package in Java.
 - [FasterXML/jackson](https://github.com/FasterXML/jackson) - Main Portal page for the Jackson project
@@ -4055,7 +4063,7 @@
 - [nih-at/libzip](https://github.com/nih-at/libzip) - A C library for reading, creating, and modifying zip archives.
 - [rust-lang/annotate-snippets-rs](https://github.com/rust-lang/annotate-snippets-rs) - Library for snippet annotations
 - [oneapi-src/oneDNN](https://github.com/oneapi-src/oneDNN) - oneAPI Deep Neural Network Library (oneDNN)
-- [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) - Hacktoberfest 2022 coming | World's largest Contributor driven code dataset | Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever enc
+- [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) - Hacktoberfest 2022 | World's largest Contributor driven code dataset | Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter 
 - [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) - ✨ Standard library for JavaScript and Node.js. ✨
 - [roberthein/TinyConstraints](https://github.com/roberthein/TinyConstraints) - Nothing but sugar.
 - [roughike/BottomBar](https://github.com/roughike/BottomBar) - (Deprecated) A custom view component that mimics the new Material Design Bottom Navigation pattern.
@@ -5692,7 +5700,6 @@
 - [kainino0x/wasm-call-js-from-rust](https://github.com/kainino0x/wasm-call-js-from-rust) - Minimal demo calling JavaScript from WebAssembly Rust code
 - [rust-ml/discussion](https://github.com/rust-ml/discussion) - A space to discuss the future of the ML ecosystem in Rust.
 - [marceloboeira/voik](https://github.com/marceloboeira/voik) - ♒︎ [WIP] An experimental ~distributed~ commit-log
-- [llogiq/momo](https://github.com/llogiq/momo) - A Rust proc_macro_attribute to outline conversions from generic functions
 - [CAD97/pegcel](https://github.com/CAD97/pegcel) - A syn targetting PEG parser generator
 - [drbh/wasm-flate](https://github.com/drbh/wasm-flate) - 🗜️⚡WebAssembly powered compression and decompression in the browser and server. Supports GZIP, ZLIB and DEFLATE
 - [rustwasm/wasm-tracing-allocator](https://github.com/rustwasm/wasm-tracing-allocator) - A global allocator for Wasm that traces allocations and deallocations for debugging purposes.
@@ -7280,7 +7287,6 @@
 - [zedapp/zed](https://github.com/zedapp/zed) - Rethinking code editing.
 - [jpbarrette/curlpp](https://github.com/jpbarrette/curlpp) - C++ wrapper around libcURL
 - [fortunejs/fortune](https://github.com/fortunejs/fortune) - Non-native graph database abstraction layer for Node.js and web browsers.
-- [SalGnt/cscs](https://github.com/SalGnt/cscs) - A curated list of Coding Style Conventions and Standards.
 - [NytroRST/NetRipper](https://github.com/NytroRST/NetRipper) - NetRipper - Smart traffic sniffing for penetration testers
 - [Palleas/NaughtyKeyboard](https://github.com/Palleas/NaughtyKeyboard) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data. This is a keyboard to help you test your app from your iOS device.
 - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
@@ -8351,7 +8357,6 @@
 - [facebook/folly](https://github.com/facebook/folly) - An open-source C++ library developed and used at Facebook.
 - [USCiLab/cereal](https://github.com/USCiLab/cereal) - A C++11 library for serialization
 - [indutny/heartbleed](https://github.com/indutny/heartbleed) - Extracting server private key using Heartbleed OpenSSL vulnerability.
-- [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PS3 emulator/debugger
 - [Automattic/cli-table](https://github.com/Automattic/cli-table) - Pretty unicode tables for the CLI with Node.JS
 - [odj/arkleseizure](https://github.com/odj/arkleseizure) - Node bindings for OpenBabel
 - [arturadib/node-qt](https://github.com/arturadib/node-qt) - C++ Qt bindings for Node.js
@@ -9903,6 +9908,7 @@
 - [pydoit/doit](https://github.com/pydoit/doit) - task management & automation tool
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [starlite-api/starlite](https://github.com/starlite-api/starlite) - Light, Flexible and Extensible ASGI API framework
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - 短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！
 - [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
@@ -10895,7 +10901,7 @@
 - [hyperium/hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
 - [nikomatsakis/intorust](https://github.com/nikomatsakis/intorust) - Learn Rust real good.
 - [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt) - Format Rust code
-- [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/nightly/clippy/
+- [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
 - [briansmith/ring](https://github.com/briansmith/ring) - Safe, fast, small crypto using Rust
 - [watchexec/cargo-watch](https://github.com/watchexec/cargo-watch) - Watches over your Cargo project's source.
 - [TheNeikos/rustbreak](https://github.com/TheNeikos/rustbreak) - A simple, fast and easy to use self-contained single file storage for Rust
