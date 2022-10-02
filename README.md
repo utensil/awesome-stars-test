@@ -702,7 +702,7 @@
 - [ROCm-Developer-Tools/HIP](https://github.com/ROCm-Developer-Tools/HIP) - HIP: C++ Heterogeneous-Compute Interface for Portability
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source x64/x32 debugger for windows.
 - [google/skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
-- [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) - Hacktoberfest 2022 coming | World's largest Contributor driven code dataset | Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever enc
+- [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) - Hacktoberfest 2022 | World's largest Contributor driven code dataset | Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter 
 - [apache/incubator-weex](https://github.com/apache/incubator-weex) - Apache Weex (Incubating)
 - [terminaldweller/mutator](https://github.com/terminaldweller/mutator) - mutator is an experimental suite of tools aimed at analysis and automation of C/C++ code development
 - [duneroadrunner/SaferCPlusPlus](https://github.com/duneroadrunner/SaferCPlusPlus) - A collection of safe data types that are compatible with, and can substitute for, common unsafe native c++ types. http://duneroadrunner.github.io/SaferCPlusPlus/
@@ -7137,7 +7137,7 @@
 - [hyperium/hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
 - [canndrew/netsim](https://github.com/canndrew/netsim) - Network simulation in Rust
 - [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt) - Format Rust code
-- [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/nightly/clippy/
+- [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
 - [beneills/quantum](https://github.com/beneills/quantum) - Advanced Rust quantum computer simulator
 - [en/kcp-rs](https://github.com/en/kcp-rs) - A KCP implementation in Rust
 - [nickbabcock/rrinlog](https://github.com/nickbabcock/rrinlog) - Replacing Elasticsearch with Rust and SQLite
