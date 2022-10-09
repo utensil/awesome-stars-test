@@ -150,6 +150,7 @@
 - [nodejs](#nodejs)
 - [nosql](#nosql)
 - [npm](#npm)
+- [numpy](#numpy)
 - [objective-c](#objective-c)
 - [open-data](#open-data)
 - [open-source](#open-source)
@@ -296,7 +297,7 @@
 - [EbTech/rust-algorithms](https://github.com/EbTech/rust-algorithms) - Common data structures and algorithms in Rust
 - [life4/textdistance](https://github.com/life4/textdistance) - Compute distance between sequences. 30+ algorithms, pure python implementation, common interface, optional external libs usage.
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
-- [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) - Hacktoberfest 2022 | World's largest Contributor driven code dataset | Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter 
+- [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) - Hacktoberfest 2022 | World's largest Contributor driven code dataset | Used in Quark Search Engine, @OpenGenus IQ, OpenGenus Visual Project
 - [zotroneneis/machine_learning_basics](https://github.com/zotroneneis/machine_learning_basics) - Plain python implementations of basic machine learning algorithms
 - [Blankj/awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode) - :crown: LeetCode of algorithms with java solution(updating).
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
@@ -402,7 +403,7 @@
 ## angular 
 
 - [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
-- [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
+- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [Wscats/articles](https://github.com/Wscats/articles) - 🔖My Learning Notes and Memories - 分享我的学习片段和与你的回忆
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications
 - [Soundnode/soundnode-app](https://github.com/Soundnode/soundnode-app) - Soundnode App is the Soundcloud for desktop. Built with Electron, Angular.js and Soundcloud API.
@@ -811,7 +812,7 @@
 - [steelbrain/motion](https://github.com/steelbrain/motion) - javascript cli: fast, configurable, easy, with hmr
 - [mdbootstrap/mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit) - Bootstrap 5 & Material Design 2.0 UI KIT
 - [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - An extended table to integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation, Vue.js)
-- [Fullscreen/bh](https://github.com/Fullscreen/bh) - Bootstrap Helpers for Ruby
+- [nullscreen/bh](https://github.com/nullscreen/bh) - Bootstrap Helpers for Ruby
 - [BlackrockDigital/startbootstrap](https://github.com/BlackrockDigital/startbootstrap) - A library of free and open source Bootstrap themes and templates
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
@@ -927,6 +928,7 @@
 
 ## chrome-extension 
 
+- [deathau/markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
 - [mikesteele/dual-captions](https://github.com/mikesteele/dual-captions) - 🌐 Subtitles in two languages for YouTube & Netflix
 - [pd4d10/octohint](https://github.com/pd4d10/octohint) - The missing IntelliSense hint for GitHub and GitLab
 - [DennisSnijder/MakeGithubGreatAgain](https://github.com/DennisSnijder/MakeGithubGreatAgain) - Extension for making GitHub great again
@@ -1374,6 +1376,7 @@
 - [dformoso/deeplearning-mindmap](https://github.com/dformoso/deeplearning-mindmap) - A mindmap summarising Deep Learning concepts.
 - [dformoso/machine-learning-mindmap](https://github.com/dformoso/machine-learning-mindmap) - A mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning.
 - [airbnb/knowledge-repo](https://github.com/airbnb/knowledge-repo) - A next-generation curated knowledge sharing platform for data scientists and other technical professions.
+- [JuliaData/DataFramesMeta.jl](https://github.com/JuliaData/DataFramesMeta.jl) - Metaprogramming tools for DataFrames
 - [JuliaData/DataFrames.jl](https://github.com/JuliaData/DataFrames.jl) - In-memory tabular data in Julia
 - [dleitee/valid.js](https://github.com/dleitee/valid.js) - 📝 A library for data validation.
 - [baidu/tera](https://github.com/baidu/tera) - An Internet-Scale Database.
@@ -1861,7 +1864,7 @@
 - [kstenerud/concise-encoding](https://github.com/kstenerud/concise-encoding) - The secure data format for a  modern world
 - [dadadel/pyment](https://github.com/dadadel/pyment) - Format and convert Python docstrings and generates patches
 - [pdoc3/pdoc](https://github.com/pdoc3/pdoc) - :snake: :arrow_right: :scroll:  Auto-generate API documentation for Python projects
-- [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
+- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [FriendlyUser/vuepress-theme-cool-starter](https://github.com/FriendlyUser/vuepress-theme-cool-starter) - Starter project for vuepress theme cool
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
@@ -1968,7 +1971,7 @@
 
 ## ember 
 
-- [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
+- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
 
@@ -2438,6 +2441,7 @@
 - [SabakiHQ/Sabaki](https://github.com/SabakiHQ/Sabaki) - An elegant Go board and SGF editor for a more civilized age.
 - [fiorix/freegeoip](https://github.com/fiorix/freegeoip) - IP geolocation web server
 - [google/tink](https://github.com/google/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
+- [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [simeji/jid](https://github.com/simeji/jid) - json incremental digger
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, most secure way to access infrastructure.
@@ -2640,6 +2644,7 @@
 
 ## hacktoberfest 
 
+- [tonybaloney/vscode-pets](https://github.com/tonybaloney/vscode-pets) - Adds playful pets 🦀🐱🐶 in your VS Code window
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [axa-group/Parsr](https://github.com/axa-group/Parsr) - Transforms PDF, Documents and Images into Enriched Structured Data
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
@@ -2648,8 +2653,12 @@
 - [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
 - [ioquake/ioq3](https://github.com/ioquake/ioq3) - The ioquake3 community effort to continue supporting/developing id's Quake III Arena
+- [pydoit/doit](https://github.com/pydoit/doit) - task management & automation tool
+- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
+- [starlite-api/starlite](https://github.com/starlite-api/starlite) - Light, Flexible and Extensible ASGI API framework
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
+- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
 - [apache/shardingsphere](https://github.com/apache/shardingsphere) - Ecosystem to transform any database into a distributed database system, and enhance it with sharding, elastic scaling, encryption features & more
 - [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) - Algorithms implemented in Go for beginners, following best practices.
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
@@ -2703,20 +2712,22 @@
 - [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl) - Relax! Flux is the ML library that doesn't make you tensor
 - [davrodpin/mole](https://github.com/davrodpin/mole) - CLI application to create ssh tunnels focused on resiliency and user experience.
 - [SciML/SciMLTutorials.jl](https://github.com/SciML/SciMLTutorials.jl) - Tutorials for doing scientific machine learning (SciML) and high-performance differential equation solving with open source software.
+- [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron
 - [orion-rs/orion](https://github.com/orion-rs/orion) - Usable, easy and safe pure-Rust crypto
 - [NeuralEnsemble/elephant](https://github.com/NeuralEnsemble/elephant) - Elephant is the Electrophysiology Analysis Toolkit
 - [wavedrom/wavedrom](https://github.com/wavedrom/wavedrom) - :ocean: Digital timing diagram rendering engine
-- [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use and promise-based multi SQL dialects ORM tool for Node.js | Postgres, MySQL, MariaDB, SQLite, MSSQL, Snowflake, Oracle DB (v6) & Db2 for IBM i
+- [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Typescript and Javascript, it supports PostgreSQL, MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
 - [secdev/scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3.
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [x64dbg/ScyllaHide](https://github.com/x64dbg/ScyllaHide) - Advanced usermode anti-anti-debugger. Forked from https://bitbucket.org/NtQuery/scyllahide
 - [Gallopsled/pwntools](https://github.com/Gallopsled/pwntools) - CTF framework and exploit development library
+- [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [rustindia/Rust-for-undergrads](https://github.com/rustindia/Rust-for-undergrads) - C/C++ programming probelms re-written in Rust
 - [quinn-rs/quinn](https://github.com/quinn-rs/quinn) - Async-friendly QUIC implementation in Rust
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
-- [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
+- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [Kindelia/Kind2](https://github.com/Kindelia/Kind2) - A next-gen functional language
 - [rochacbruno/py2rs](https://github.com/rochacbruno/py2rs) - A quick reference guide for the Pythonista in the process of becoming a Rustacean
@@ -2749,13 +2760,14 @@
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [spearow/juice](https://github.com/spearow/juice) - The Hacker's Machine Learning Engine
+- [codecat/ClawSearch](https://github.com/codecat/ClawSearch) - A memory scanner plugin for x64dbg, inspired by Cheat Engine.
 - [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer
 - [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen) - Optimizer and compiler/toolchain library for WebAssembly
 - [mead-ml/mead-baseline](https://github.com/mead-ml/mead-baseline) - Deep-Learning Model Exploration and Development for NLP
 - [snabbdom/snabbdom](https://github.com/snabbdom/snabbdom) - A virtual DOM library with focus on simplicity, modularity, powerful features and performance.
 - [gisce/markdown-blockdiag](https://github.com/gisce/markdown-blockdiag) - blockdiag extension for Python Markdown
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source x64/x32 debugger for windows.
-- [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) - Hacktoberfest 2022 | World's largest Contributor driven code dataset | Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter 
+- [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) - Hacktoberfest 2022 | World's largest Contributor driven code dataset | Used in Quark Search Engine, @OpenGenus IQ, OpenGenus Visual Project
 - [asciidoctor/asciidoctor.js](https://github.com/asciidoctor/asciidoctor.js) - :scroll: A JavaScript port of Asciidoctor, a modern implementation of AsciiDoc
 - [rmusser01/Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) - An Information Security Reference That Doesn't Suck; https://rmusser.net/git/admin-2/Infosec_Reference for non-MS Git hosted version.
 - [rtfpessoa/diff2html](https://github.com/rtfpessoa/diff2html) - Pretty diff to html javascript library (diff2html)
@@ -2768,7 +2780,6 @@
 - [deepchem/deepchem](https://github.com/deepchem/deepchem) - Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology
 - [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - :books: Books everyone should read!
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
-- [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [wingify/across-tabs](https://github.com/wingify/across-tabs) - Easy communication between cross-origin browser tabs. Simplified "CORS"ing!
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [git-for-windows/git](https://github.com/git-for-windows/git) - A fork of Git containing Windows-specific patches.
@@ -2787,22 +2798,25 @@
 - [sympy/sympy](https://github.com/sympy/sympy) - A computer algebra system written in pure Python
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell
 - [IonicaBizau/scrape-it](https://github.com/IonicaBizau/scrape-it) - 🔮 A Node.js scraper for humans.
+- [JuliaData/DataFramesMeta.jl](https://github.com/JuliaData/DataFramesMeta.jl) - Metaprogramming tools for DataFrames
 - [JuliaData/DataFrames.jl](https://github.com/JuliaData/DataFrames.jl) - In-memory tabular data in Julia
 - [c-w/ghp-import](https://github.com/c-w/ghp-import) - Easily import docs to your gh-pages branch.
 - [luvit/luvit](https://github.com/luvit/luvit) - Lua + libUV + jIT = pure awesomesauce
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A low-level toolkit to create floating elements. Tooltips, popovers, dropdowns, and more
 - [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
 - [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
-- [chinchang/hint.css](https://github.com/chinchang/hint.css) - A CSS only tooltip library for your lovely websites.
 - [you-dont-need/You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively + ESLint Plugin
 - [scenic-views/scenic](https://github.com/scenic-views/scenic) - Versioned database views for Rails
 - [imgix/drift](https://github.com/imgix/drift) - Easily add "zoom on hover" functionality to your site's images. Lightweight, no-dependency JavaScript.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
+- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [xmartlabs/Eureka](https://github.com/xmartlabs/Eureka) - Elegant iOS form builder in Swift
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [Raku/examples](https://github.com/Raku/examples) - Many examples of Raku code
+- [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, security responses, troubleshooting, deployments, and more. Includes rules engine, workflow, 160 integration packs wit
 - [mefellows/muxy](https://github.com/mefellows/muxy) - Chaos engineering tool for simulating real-world distributed system failures
+- [alda-lang/alda](https://github.com/alda-lang/alda) - A music programming language for musicians. :notes:
 - [TalAter/UpUp](https://github.com/TalAter/UpUp) - ✈️ Easily create sites that work offline as well as online
 - [doches/progressbar](https://github.com/doches/progressbar) - An easy-to-use C library for displaying text progress bars.
 - [SalGnt/cscs](https://github.com/SalGnt/cscs) - A curated list of Coding Style Conventions and Standards.
@@ -2823,6 +2837,7 @@
 - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [dotnet/msbuild](https://github.com/dotnet/msbuild) - The Microsoft Build Engine (MSBuild) is the build platform for .NET and Visual Studio.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
+- [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Svelte, Vue and you name 
 - [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
 - [mikepenz/MaterialDrawer](https://github.com/mikepenz/MaterialDrawer) - The flexible, easy to use, all in one drawer library for your Android project. Now brand new with material 2 design.
 - [hound-search/hound](https://github.com/hound-search/hound) - Lightning fast code searching made easy
@@ -2834,6 +2849,7 @@
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI that implement Google's Material Design.
 - [wesbos/cobalt2](https://github.com/wesbos/cobalt2) - Tweaked and refined Sublime Text theme based on the original cobalt.
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
+- [ruby/did_you_mean](https://github.com/ruby/did_you_mean) - The gem that has been saving people from typos since 2014
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) - A compiler from Go to JavaScript for running Go code in a browser
 - [taigaio/taiga-back](https://github.com/taigaio/taiga-back) - Agile project management platform. Built on top of Django and AngularJS
@@ -2855,6 +2871,7 @@
 - [copy/v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly
 - [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) - Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
 - [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate) - Web based localization tool with tight version control integration.
+- [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [harness/drone](https://github.com/harness/drone) - Drone is a Container-Native, Continuous Delivery Platform
 - [pymc-devs/pymc](https://github.com/pymc-devs/pymc) - Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Aesara
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
@@ -2892,6 +2909,7 @@
 - [ipython/ipython](https://github.com/ipython/ipython) - Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.
 - [omniauth/omniauth](https://github.com/omniauth/omniauth) - OmniAuth is a flexible authentication system utilizing Rack middleware.
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
+- [geminabox/geminabox](https://github.com/geminabox/geminabox) - Really simple rubygem hosting
 - [teamcapybara/capybara](https://github.com/teamcapybara/capybara) - Acceptance test framework for web applications
 - [Modernizr/Modernizr](https://github.com/Modernizr/Modernizr) - Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
 - [gradle/gradle](https://github.com/gradle/gradle) - Adaptable, fast automation for all
@@ -2931,7 +2949,7 @@
 - [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 - [rstudio/bookdown](https://github.com/rstudio/bookdown) - Authoring Books and Technical Documents with R Markdown
-- [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
+- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 - [pkra/mathjax-node-page](https://github.com/pkra/mathjax-node-page) - mathjax-node for pages
 - [hugohadfield/cefFlask](https://github.com/hugohadfield/cefFlask) - cefpython with a Flask sever
@@ -3307,6 +3325,7 @@
 - [regl-project/regl](https://github.com/regl-project/regl) - 👑 Functional WebGL
 - [felixrieseberg/macintosh.js](https://github.com/felixrieseberg/macintosh.js) - 🖥 A virtual Apple Macintosh with System 8, running in Electron. I'm sorry.
 - [Hedgehog-Computing/hedgehog-lab](https://github.com/Hedgehog-Computing/hedgehog-lab) - Run, compile and execute JavaScript for Scientific Computing and Data Visualization TOTALLY TOTALLY TOTALLY in your BROWSER! An open source scientific computing environment for JavaScript TOTALLY in y
+- [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [gpujs/gpu.js](https://github.com/gpujs/gpu.js) - GPU Accelerated JavaScript
 - [davidedc/Algebrite](https://github.com/davidedc/Algebrite) - Computer Algebra System in Javascript (Typescript)
@@ -3326,12 +3345,12 @@
 - [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
 - [patr0nus/DeskGap](https://github.com/patr0nus/DeskGap) - A cross-platform desktop app framework based on Node.js and the system webview
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron
-- [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use and promise-based multi SQL dialects ORM tool for Node.js | Postgres, MySQL, MariaDB, SQLite, MSSQL, Snowflake, Oracle DB (v6) & Db2 for IBM i
+- [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Typescript and Javascript, it supports PostgreSQL, MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
 - [MikeMcl/big.js](https://github.com/MikeMcl/big.js) - A small, fast JavaScript library for arbitrary-precision decimal arithmetic.
 - [MikeMcl/bignumber.js](https://github.com/MikeMcl/bignumber.js) - A JavaScript library for arbitrary-precision decimal and non-decimal arithmetic
 - [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
 - [nexe/nexe](https://github.com/nexe/nexe) - 🎉 create a single executable out of your node.js apps
-- [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
+- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [grpc/grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [chachaxw/data-structure-and-algorithm](https://github.com/chachaxw/data-structure-and-algorithm) - Basic data structures, sorting algorithms, algorithms learning tools. 基本数据结构，排序算法，算法学习工具
@@ -3741,6 +3760,7 @@
 - [HospitalRun/hospitalrun.io](https://github.com/HospitalRun/hospitalrun.io) - HospitalRun website
 - [mblode/burger](https://github.com/mblode/burger) - Burger - The minimal hamburger menu with fullscreen navigation.
 - [jglovier/gifs](https://github.com/jglovier/gifs) - :joy: :camera: :sparkler: Storage place for all mah gifs.
+- [ruby/www.ruby-lang.org](https://github.com/ruby/www.ruby-lang.org) - Source of the https://www.ruby-lang.org website.
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 
 ## jquery 
@@ -3852,6 +3872,7 @@
 - [JuliaMath/Calculus.jl](https://github.com/JuliaMath/Calculus.jl) - Calculus functions in Julia
 - [SciML/Sundials.jl](https://github.com/SciML/Sundials.jl) - Julia interface to Sundials, including a nonlinear solver (KINSOL), ODE's (CVODE and ARKODE), and DAE's (IDA) in a SciML scientific machine learning enabled manner
 - [chrisvoncsefalvay/learn-julia-the-hard-way](https://github.com/chrisvoncsefalvay/learn-julia-the-hard-way) - Learn Julia the hard way!
+- [JuliaData/DataFramesMeta.jl](https://github.com/JuliaData/DataFramesMeta.jl) - Metaprogramming tools for DataFrames
 - [JuliaData/DataFrames.jl](https://github.com/JuliaData/DataFrames.jl) - In-memory tabular data in Julia
 - [OpenGene/OpenGene.jl](https://github.com/OpenGene/OpenGene.jl) - (No maintenance) OpenGene, core libraries for NGS data analysis and bioinformatics in Julia
 - [svaksha/Julia.jl](https://github.com/svaksha/Julia.jl) - Curated decibans of Julia programming language.
@@ -4084,7 +4105,7 @@
 - [nih-at/libzip](https://github.com/nih-at/libzip) - A C library for reading, creating, and modifying zip archives.
 - [rust-lang/annotate-snippets-rs](https://github.com/rust-lang/annotate-snippets-rs) - Library for snippet annotations
 - [oneapi-src/oneDNN](https://github.com/oneapi-src/oneDNN) - oneAPI Deep Neural Network Library (oneDNN)
-- [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) - Hacktoberfest 2022 | World's largest Contributor driven code dataset | Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter 
+- [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) - Hacktoberfest 2022 | World's largest Contributor driven code dataset | Used in Quark Search Engine, @OpenGenus IQ, OpenGenus Visual Project
 - [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) - ✨ Standard library for JavaScript and Node.js. ✨
 - [roberthein/TinyConstraints](https://github.com/roberthein/TinyConstraints) - Nothing but sugar.
 - [roughike/BottomBar](https://github.com/roughike/BottomBar) - (Deprecated) A custom view component that mimics the new Material Design Bottom Navigation pattern.
@@ -4228,6 +4249,7 @@
 
 ## machine-learning 
 
+- [heejkoo/Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models) - A collection of resources and papers on Diffusion Models and Score-matching Models, a darkhorse in the field of Generative Models
 - [alexlenail/NN-SVG](https://github.com/alexlenail/NN-SVG) - Publication-ready NN-architecture schematics.
 - [Cloud-CV/EvalAI](https://github.com/Cloud-CV/EvalAI) - :cloud: :rocket: :bar_chart: :chart_with_upwards_trend: Evaluating state of the art in AI
 - [kornia/kornia](https://github.com/kornia/kornia) - Open Source Differentiable Computer Vision Library
@@ -4685,7 +4707,7 @@
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron
-- [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use and promise-based multi SQL dialects ORM tool for Node.js | Postgres, MySQL, MariaDB, SQLite, MSSQL, Snowflake, Oracle DB (v6) & Db2 for IBM i
+- [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Typescript and Javascript, it supports PostgreSQL, MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
 - [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
 - [arkdb/inception](https://github.com/arkdb/inception) - 一个集审核、执行、备份及生成回滚语句于一身的MySQL自动化运维工具
 - [PyMySQL/mysqlclient](https://github.com/PyMySQL/mysqlclient) - MySQL database connector for Python (with Python 3 support)
@@ -4865,7 +4887,7 @@
 - [patr0nus/DeskGap](https://github.com/patr0nus/DeskGap) - A cross-platform desktop app framework based on Node.js and the system webview
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 - [gridsome/gridsome](https://github.com/gridsome/gridsome) - ⚡️ The Jamstack framework for Vue.js
-- [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use and promise-based multi SQL dialects ORM tool for Node.js | Postgres, MySQL, MariaDB, SQLite, MSSQL, Snowflake, Oracle DB (v6) & Db2 for IBM i
+- [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Typescript and Javascript, it supports PostgreSQL, MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [nexe/nexe](https://github.com/nexe/nexe) - 🎉 create a single executable out of your node.js apps
@@ -5013,6 +5035,29 @@
 - [sindresorhus/awesome-npm](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 
+## numpy 
+
+- [RobinKa/jaxga](https://github.com/RobinKa/jaxga) - Geometric Algebra package for JAX
+- [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
+- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
+- [arogozhnikov/einops](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented (for pytorch, tensorflow, jax and others)
+- [pydata/xarray](https://github.com/pydata/xarray) - N-D labeled arrays and datasets in Python
+- [google/trax](https://github.com/google/trax) - Trax — Deep Learning with Clear Code and Speed
+- [dadadel/pyment](https://github.com/dadadel/pyment) - Format and convert Python docstrings and generates patches
+- [UoAACG/WorkshopNotebooks](https://github.com/UoAACG/WorkshopNotebooks) - Repository of the Scientific Python Worshop at UOA
+- [xtensor-stack/xtensor](https://github.com/xtensor-stack/xtensor) - C++ tensors with broadcasting and lazy computing
+- [dmlc/gluon-nlp](https://github.com/dmlc/gluon-nlp) - NLP made easy
+- [tirthajyoti/Machine-Learning-with-Python](https://github.com/tirthajyoti/Machine-Learning-with-Python) - Practice and tutorial-style notebooks  covering wide variety of machine learning techniques
+- [PyO3/rust-numpy](https://github.com/PyO3/rust-numpy) - PyO3-based Rust bindings of the NumPy C-API
+- [biolab/orange3](https://github.com/biolab/orange3) - 🍊 :bar_chart: :bulb: Orange: Interactive data analysis
+- [Kyubyong/tensorflow-exercises](https://github.com/Kyubyong/tensorflow-exercises) - TensorFlow Exercises - focusing on the comparison with NumPy.
+- [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
+- [lijin-THU/notes-python](https://github.com/lijin-THU/notes-python) - 中文 Python 笔记
+- [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AW
+- [JuliaPy/PyCall.jl](https://github.com/JuliaPy/PyCall.jl) - Package to call Python functions from the Julia language
+- [numba/numba](https://github.com/numba/numba) - NumPy aware dynamic Python compiler using LLVM
+
 ## objective-c 
 
 - [cossacklabs/themis](https://github.com/cossacklabs/themis) - Easy to use cryptographic framework for data protection: secure messaging with forward secrecy and secure data storage. Has unified APIs across 14 platforms.
@@ -5117,6 +5162,11 @@
 
 ## others 
 
+- [marcusolsson/obsidian-projects](https://github.com/marcusolsson/obsidian-projects) - Project management for Obsidian
+- [TfTHacker/obsidian42-brat](https://github.com/TfTHacker/obsidian42-brat) - BRAT - Beta Reviewer's Auto-update Tool for Obsidian. Part of the Obsidian42 family of plugins.
+- [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful Syntax Highlighter.
+- [vimalabs/VIMA](https://github.com/vimalabs/VIMA) - Official Algorithm Implementation of Paper "VIMA: General Robot Manipulation with Multimodal Prompts"
+- [denolehov/obsidian-git](https://github.com/denolehov/obsidian-git) - Backup your Obsidian.md vault with git
 - [dreamfusion3d/dreamfusion3d.github.io](https://github.com/dreamfusion3d/dreamfusion3d.github.io) - 
 - [nmwsharp/geometry-central](https://github.com/nmwsharp/geometry-central) - Applied 3D geometry in C++, with a focus on surface meshes.
 - [nmwsharp/polyscope](https://github.com/nmwsharp/polyscope) - A C++ & Python viewer for 3D data like meshes and point clouds
@@ -5518,7 +5568,6 @@
 - [ImperialCollegeLondon/M1P1-lean](https://github.com/ImperialCollegeLondon/M1P1-lean) - Material from M1P1, formalised in Lean
 - [ImperialCollegeLondon/M40001_lean](https://github.com/ImperialCollegeLondon/M40001_lean) - Lean stuff for M40001
 - [ImperialCollegeLondon/complex-number-game](https://github.com/ImperialCollegeLondon/complex-number-game) - The Complex Number Game. Make the complex numbers in Lean.
-- [jgraph/drawio](https://github.com/jgraph/drawio) - Source to app.diagrams.net
 - [evcastelani/LiGA.jl](https://github.com/evcastelani/LiGA.jl) - Library for Geometric Algebra
 - [ImperialCollegeLondon/xena-UROP-2018](https://github.com/ImperialCollegeLondon/xena-UROP-2018) - A place to put our 2018 Xena project UROP thoughts and programs.
 - [lclem/jupyter_contrib_nbextensions](https://github.com/lclem/jupyter_contrib_nbextensions) - A collection of various notebook extensions for Jupyter
@@ -6006,7 +6055,6 @@
 - [foniod/redbpf](https://github.com/foniod/redbpf) - Rust library for building and running BPF/eBPF modules
 - [stevedonovan/runner](https://github.com/stevedonovan/runner) - Tool for running Rust snippets
 - [JoshData/convert-outlook-msg-file](https://github.com/JoshData/convert-outlook-msg-file) - Python library to convert Microsoft Outlook .msg files to .eml/MIME message files.
-- [xtensor-stack/xtensor](https://github.com/xtensor-stack/xtensor) - C++ tensors with broadcasting and lazy computing
 - [netlify/gotrue-js](https://github.com/netlify/gotrue-js) - JavaScript client library for GoTrue
 - [milibopp/carboxyl](https://github.com/milibopp/carboxyl) - Functional Reactive Programming library for Rust
 - [neobrain/cftf](https://github.com/neobrain/cftf) - Clang from the Future: A C++17 to C++11 source-to-source compiler
@@ -6158,7 +6206,6 @@
 - [msuiche/porosity](https://github.com/msuiche/porosity) - *UNMAINTAINED* Decompiler and Security Analysis tool for Blockchain-based Ethereum Smart-Contracts
 - [kieranelby/KingOfTheEtherThrone](https://github.com/kieranelby/KingOfTheEtherThrone) - An Ethereum ÐApp (a "contract"), living on the blockchain, that could have made you a King or Queen, granted you riches, or immortalized your name. It's no longer updated, but visit kingoftheether.com
 - [cfallin/rust-oping](https://github.com/cfallin/rust-oping) - Rust bindings for liboping, a simple ICMP ping library.
-- [PyO3/rust-numpy](https://github.com/PyO3/rust-numpy) - PyO3-based Rust bindings of the NumPy C-API
 - [maidsafe-archive/crust](https://github.com/maidsafe-archive/crust) - Reliable p2p network connections in Rust with NAT traversal. One of the most needed libraries for any server-less / decentralised projects
 - [maidsafe-archive/get_if_addrs](https://github.com/maidsafe-archive/get_if_addrs) - Retrieve IP addresses for all interfaces. Posix & Windows
 - [aaalgo/picpac](https://github.com/aaalgo/picpac) - An image database for deep learning.
@@ -6838,7 +6885,6 @@
 - [jimon/osx_app_in_plain_c](https://github.com/jimon/osx_app_in_plain_c) - A simple showcase how to create a simple OS X app in plain C without any Objective-C
 - [Ivo-Balbaert/start_rust](https://github.com/Ivo-Balbaert/start_rust) - This is the code for the book "Rust Essentials"
 - [Ivo-Balbaert/start_julia](https://github.com/Ivo-Balbaert/start_julia) - Code of the book "Getting started with the Julia Programming Language"
-- [JuliaData/DataFramesMeta.jl](https://github.com/JuliaData/DataFramesMeta.jl) - Metaprogramming tools for DataFrames
 - [JuliaML/MLMetrics.jl](https://github.com/JuliaML/MLMetrics.jl) - Metrics for scoring machine learning models in Julia
 - [klee/klee](https://github.com/klee/klee) - KLEE Symbolic Execution Engine
 - [saswatanand/symexbib](https://github.com/saswatanand/symexbib) - A bibliography of papers related to symbolic execution
@@ -7177,7 +7223,7 @@
 - [rain1017/memdb](https://github.com/rain1017/memdb) - Distributed Transactional In-Memory Database (全球首个支持分布式事务的MongoDB)
 - [Jack000/Expose](https://github.com/Jack000/Expose) - A simple static site generator for photoessays
 - [ampproject/amphtml](https://github.com/ampproject/amphtml) - The AMP web component framework.
-- [mapbox/geojson.io](https://github.com/mapbox/geojson.io) - IMPORTANT: development of this project has been paused, see the README (fast, simple map creation)
+- [mapbox/geojson.io](https://github.com/mapbox/geojson.io) - fast, simple spatial data creation
 - [kirel/detexify-hs-backend](https://github.com/kirel/detexify-hs-backend) - Detexify Backend written in Haskell
 - [kirel/detexify](https://github.com/kirel/detexify) - Latex Symbol Classifier Web Frontend
 - [varafy/katex](https://github.com/varafy/katex) - This is to test all the needs of Typeset Math for Varafy on two platforms: KaTeX & MathJax.
@@ -9840,7 +9886,7 @@
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron
-- [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use and promise-based multi SQL dialects ORM tool for Node.js | Postgres, MySQL, MariaDB, SQLite, MSSQL, Snowflake, Oracle DB (v6) & Db2 for IBM i
+- [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Typescript and Javascript, it supports PostgreSQL, MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
 - [saschagrunert/webapp.rs](https://github.com/saschagrunert/webapp.rs) - A web application completely written in Rust. 🌍
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
@@ -10354,7 +10400,7 @@
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [scenic-views/scenic](https://github.com/scenic-views/scenic) - Versioned database views for Rails
 - [thoughtbot/administrate](https://github.com/thoughtbot/administrate) - A Rails engine that helps you put together a super-flexible admin dashboard.
-- [Fullscreen/bh](https://github.com/Fullscreen/bh) - Bootstrap Helpers for Ruby
+- [nullscreen/bh](https://github.com/nullscreen/bh) - Bootstrap Helpers for Ruby
 - [DefactoSoftware/Hours](https://github.com/DefactoSoftware/Hours) - Time registration that doesn't suck
 - [rubocop/rails-style-guide](https://github.com/rubocop/rails-style-guide) - A community-driven Ruby on Rails style guide
 - [aasm/aasm](https://github.com/aasm/aasm) - AASM - State machines for Ruby classes (plain Ruby, ActiveRecord, Mongoid, NoBrainer, Dynamoid)
@@ -10402,7 +10448,7 @@
 - [madnight/githut](https://github.com/madnight/githut) - Github Language Statistics
 - [ivanceras/sauron](https://github.com/ivanceras/sauron) - A versatile web framework and library for building client-side and server-side web applications
 - [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
-- [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
+- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
 - [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
@@ -10467,7 +10513,7 @@
 ## react-native 
 
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron
-- [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
+- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
 - [wix/Detox](https://github.com/wix/Detox) - Gray box end-to-end testing and automation framework for mobile apps
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
@@ -11228,7 +11274,7 @@
 - [openlink/virtuoso-opensource](https://github.com/openlink/virtuoso-opensource) - Virtuoso is a high-performance and scalable Multi-Model RDBMS, Data Integration Middleware, Linked Data Deployment, and HTTP Application Server Platform
 - [rust-db/barrel](https://github.com/rust-db/barrel) - 🛢 A database schema migration builder for Rust
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
-- [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use and promise-based multi SQL dialects ORM tool for Node.js | Postgres, MySQL, MariaDB, SQLite, MSSQL, Snowflake, Oracle DB (v6) & Db2 for IBM i
+- [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Typescript and Javascript, it supports PostgreSQL, MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
 - [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust
 - [florajs/sql-parser](https://github.com/florajs/sql-parser) - Parse SQL (select) statements into abstract syntax tree (AST) and convert ASTs back to SQL.
 - [gjbex/training-material](https://github.com/gjbex/training-material) - A collection of code examples as well as presentations for training purposes
@@ -11271,7 +11317,7 @@
 
 ## storybook 
 
-- [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
+- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 
 ## sublime-text 
 
@@ -11483,7 +11529,7 @@
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
 - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
-- [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
+- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [computationalmodelling/nbval](https://github.com/computationalmodelling/nbval) - A py.test plugin to validate Jupyter notebooks
 - [kriomant/mockers](https://github.com/kriomant/mockers) - Mocking library for Rust
 - [FlaUI/FlaUI](https://github.com/FlaUI/FlaUI) - UI automation library for .Net
@@ -11520,6 +11566,8 @@
 
 ## typescript 
 
+- [tonybaloney/vscode-pets](https://github.com/tonybaloney/vscode-pets) - Adds playful pets 🦀🐱🐶 in your VS Code window
+- [needle-tools/needle-engine-support](https://github.com/needle-tools/needle-engine-support) - Needle Engine is a web-based runtime for 3D apps. It runs on your machine for development, and can be deployed anywhere. It is flexible, extensible, and collaboration and XR come naturally.
 - [axa-group/Parsr](https://github.com/axa-group/Parsr) - Transforms PDF, Documents and Images into Enriched Structured Data
 - [YousefED/BlockNote](https://github.com/YousefED/BlockNote) - A "Notion-style" block-based extensible text editor built on top of Prosemirror and Tiptap.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
@@ -11535,8 +11583,8 @@
 - [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
 - [patr0nus/DeskGap](https://github.com/patr0nus/DeskGap) - A cross-platform desktop app framework based on Node.js and the system webview
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron
-- [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use and promise-based multi SQL dialects ORM tool for Node.js | Postgres, MySQL, MariaDB, SQLite, MSSQL, Snowflake, Oracle DB (v6) & Db2 for IBM i
-- [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
+- [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Typescript and Javascript, it supports PostgreSQL, MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
+- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [chachaxw/data-structure-and-algorithm](https://github.com/chachaxw/data-structure-and-algorithm) - Basic data structures, sorting algorithms, algorithms learning tools. 基本数据结构，排序算法，算法学习工具
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
@@ -11596,6 +11644,7 @@
 
 ## unity 
 
+- [needle-tools/needle-engine-support](https://github.com/needle-tools/needle-engine-support) - Needle Engine is a web-based runtime for 3D apps. It runs on your machine for development, and can be deployed anywhere. It is flexible, extensible, and collaboration and XR come naturally.
 - [marian42/wavefunctioncollapse](https://github.com/marian42/wavefunctioncollapse) - Walk through an infinite, procedurally generated city
 - [sschmid/Entitas](https://github.com/sschmid/Entitas) - Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity
 
@@ -11649,7 +11698,7 @@
 - [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
 - [gridsome/gridsome](https://github.com/gridsome/gridsome) - ⚡️ The Jamstack framework for Vue.js
 - [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
-- [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
+- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [vuejs/vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
 - [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
@@ -11752,7 +11801,7 @@
 
 ## web-components 
 
-- [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
+- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [github/time-elements](https://github.com/github/time-elements) - Web component extensions to the standard &lt;time&gt; element.
 
 ## webapp 
@@ -11764,7 +11813,7 @@
 
 ## webpack 
 
-- [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
+- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [webpack-contrib/webpack-command](https://github.com/webpack-contrib/webpack-command) - [DEPRECATED] Lightweight, modular, and opinionated webpack CLI that provides a superior experience
 - [webslides/WebSlides](https://github.com/webslides/WebSlides) - Create HTML presentations in seconds —
 - [rlindskog/vueniverse](https://github.com/rlindskog/vueniverse) - Full stack, user based, PWA, Vue template.
