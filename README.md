@@ -104,6 +104,7 @@
 - [SMT](#smt)
 - [SQL](#sql)
 - [SVG](#svg)
+- [Sass](#sass)
 - [Scala](#scala)
 - [Scheme](#scheme)
 - [Shell](#shell)
@@ -558,6 +559,7 @@
 
 ## C++ 
 
+- [frida/cryptoshark](https://github.com/frida/cryptoshark) - Self-optimizing cross-platform code tracer based on dynamic recompilation
 - [ffffffff0x/1earn](https://github.com/ffffffff0x/1earn) - ffffffff0x 团队维护的安全知识框架,内容包括不仅限于 web安全、工控安全、取证、应急、蓝队设施部署、后渗透、Linux安全、各类靶机writup
 - [nmwsharp/geometry-central](https://github.com/nmwsharp/geometry-central) - Applied 3D geometry in C++, with a focus on surface meshes.
 - [nmwsharp/polyscope](https://github.com/nmwsharp/polyscope) - A C++ & Python viewer for 3D data like meshes and point clouds
@@ -1556,7 +1558,7 @@
 - [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - A distributed transaction framework, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns, supports many languages.
 - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity.
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats
-- [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) - Source code and community space of 📖 100 Go Mistakes.
+- [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) - 📖 100 Go Mistakes and How to Avoid Them
 - [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go
 - [Gui774ume/network-security-probe](https://github.com/Gui774ume/network-security-probe) - A process level network security monitoring and enforcement project for Kubernetes, using eBPF
 - [goproxyio/goproxy](https://github.com/goproxyio/goproxy) - A global proxy for Go modules.
@@ -2092,6 +2094,7 @@
 
 ## Java 
 
+- [MaxiHuHe04/iTunes-Backup-Explorer](https://github.com/MaxiHuHe04/iTunes-Backup-Explorer) - A graphical tool that can extract and replace files from encrypted and non-encrypted iOS backups
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [tinkerpop/gremlin](https://github.com/tinkerpop/gremlin) - A Graph Traversal Language (no longer active - see Apache TinkerPop)
 - [allure-framework/allure2](https://github.com/allure-framework/allure2) - Allure Report is a flexible, lightweight multi-language test reporting tool. It provides clear graphical reports and allows everyone involved in the development process to extract the maximum of infor
@@ -2406,6 +2409,8 @@
 
 ## JavaScript 
 
+- [fkie-cad/friTap](https://github.com/fkie-cad/friTap) - The goal of this project is to help researchers to analyze traffic encapsulated in SSL or TLS.
+- [dpnishant/appmon](https://github.com/dpnishant/appmon) - Documentation:
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [s-blu/obsidian_dataview_example_vault](https://github.com/s-blu/obsidian_dataview_example_vault) - A example vault to collect and showcase various dataview queries. Created on behalf of AB1908
 - [doufen-org/tofu](https://github.com/doufen-org/tofu) - 一款 Chrome 扩展。用于备份豆瓣账号的数据，并支持导出 Excel 文档。
@@ -4258,7 +4263,7 @@
 - [JuliaGraphics/Colors.jl](https://github.com/JuliaGraphics/Colors.jl) - Color manipulation utilities for Julia
 - [JuliaDiff/DiffRules.jl](https://github.com/JuliaDiff/DiffRules.jl) - A simple shared suite of common derivative definitions
 - [HarrisonGrodin/Simplify.jl](https://github.com/HarrisonGrodin/Simplify.jl) - Algebraic simplification in Julia
-- [SciML/ModelingToolkit.jl](https://github.com/SciML/ModelingToolkit.jl) - A modeling framework for automatically parallelized scientific machine learning (SciML) in Julia. A computer algebra system for integrated symbolics for physics-informed machine learning and automated
+- [SciML/ModelingToolkit.jl](https://github.com/SciML/ModelingToolkit.jl) - An acausal modeling framework for automatically parallelized scientific machine learning (SciML) in Julia. A computer algebra system for integrated symbolics for physics-informed machine learning and 
 - [JuliaDocs/DocStringExtensions.jl](https://github.com/JuliaDocs/DocStringExtensions.jl) - Extensions for Julia's docsystem.
 - [timholy/ProfileView.jl](https://github.com/timholy/ProfileView.jl) - Visualization of Julia profiling data
 - [chakravala/Leibniz.jl](https://github.com/chakravala/Leibniz.jl) - Tensor algebra utility library
@@ -4715,6 +4720,7 @@
 
 ## Objective-C 
 
+- [dkaluta/icalBuddy64](https://github.com/dkaluta/icalBuddy64) - Command-line utility for printing events and tasks from the macOS calendar database. (NOW 64-BIT!)
 - [liquidx/webviewscreensaver](https://github.com/liquidx/webviewscreensaver) - Mac OS X Screen Saver powered by a Web View
 - [gaelicWizard/RedPill](https://github.com/gaelicWizard/RedPill) - OS X screen saver
 - [lpar/RedPill](https://github.com/lpar/RedPill) - OS X screen saver
@@ -4771,6 +4777,7 @@
 
 ## Others 
 
+- [dweinstein/awesome-frida](https://github.com/dweinstein/awesome-frida) - Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)
 - [toolswatch/blackhat-arsenal-tools](https://github.com/toolswatch/blackhat-arsenal-tools) - Official Black Hat Arsenal Security Tools Repository
 - [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
 - [docker-practice/docker-registry-cn-mirror-test](https://github.com/docker-practice/docker-registry-cn-mirror-test) - 测试国内 docker registry 镜像 | 测试结果请到 Actions 标签详情页查看
@@ -5402,6 +5409,8 @@
 
 ## Python 
 
+- [avibrazil/iOSbackup](https://github.com/avibrazil/iOSbackup) - A Python 3 class that reads and extracts files from a password-encrypted iOS backup created by iTunes on Mac and Windows. Compatible with iOS 14. Class works on Linux too.
+- [jfarley248/iTunes_Backup_Reader](https://github.com/jfarley248/iTunes_Backup_Reader) - Python 3 Script to parse out iTunes backups
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [skavngr/rapidscan](https://github.com/skavngr/rapidscan) - :new: The Multi-Tool Web Vulnerability Scanner.
 - [EelcoHoogendoorn/numga](https://github.com/EelcoHoogendoorn/numga) - Geometric algebra in JAX and numpy
@@ -7299,6 +7308,10 @@
 ## SVG 
 
 - [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) - Showcase your skills on your Github readme or resumé with ease ✨
+
+## Sass 
+
+- [pradyunsg/furo](https://github.com/pradyunsg/furo) - A clean customizable documentation theme for Sphinx
 
 ## Scala 
 
