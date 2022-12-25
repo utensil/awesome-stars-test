@@ -763,7 +763,7 @@
 - [opentomb/OpenTomb](https://github.com/opentomb/OpenTomb) - An open-source Tomb Raider 1-5 engine remake
 - [falvaro/seshat](https://github.com/falvaro/seshat) - Handwritten math expression parser
 - [google/guetzli](https://github.com/google/guetzli) - Perceptual JPEG encoder
-- [Lexikos/AutoHotkey_L](https://github.com/Lexikos/AutoHotkey_L) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
+- [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 - [sourcey/libsourcey](https://github.com/sourcey/libsourcey) - C++14 evented IO libraries for high performance networking and media based applications
 - [RedisLabs/memtier_benchmark](https://github.com/RedisLabs/memtier_benchmark) - NoSQL Redis and Memcache traffic generation and benchmarking tool.
 - [fastio/1store](https://github.com/fastio/1store) - NoSQL data store using the SEASTAR framework, compatible with Redis
@@ -1746,7 +1746,7 @@
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [ConradIrwin/aws-name-server](https://github.com/ConradIrwin/aws-name-server) - DNS server that lets you look up ec2 instances by instance name
 - [sourcegraph/srclib](https://github.com/sourcegraph/srclib) - srclib is a polyglot code analysis library, built for hackability. It consists of language analysis toolchains (currently for Go and Java, with Python, JavaScript, and Ruby in beta) with a common outp
-- [atomix/atomix](https://github.com/atomix/atomix) - A reactive Java framework for building fault-tolerant distributed systems
+- [atomix/atomix](https://github.com/atomix/atomix) - A Kubernetes toolkit for building distributed applications using cloud native principles
 - [docker-archive/classicswarm](https://github.com/docker-archive/classicswarm) - Swarm Classic: a container clustering system. Not to be confused with Docker Swarm which is at https://github.com/docker/swarmkit
 - [sjwhitworth/golearn](https://github.com/sjwhitworth/golearn) - Machine Learning for Go
 - [gocircuit/circuit](https://github.com/gocircuit/circuit) - Circuit: Dynamic cloud orchestration http://gocircuit.org
@@ -1804,6 +1804,7 @@
 - [tidyverse/style](https://github.com/tidyverse/style) - The tidyverse style guide for R code
 - [distillpub/post--example](https://github.com/distillpub/post--example) - Example Distill article repository—clone, rename, start writing!
 - [SdtElectronics/jekyll-theme-antarctica](https://github.com/SdtElectronics/jekyll-theme-antarctica) - Stylish and feature-rich theme for Jekyll
+- [alshedivat/al-folio](https://github.com/alshedivat/al-folio) - A beautiful, simple, clean, and responsive Jekyll theme for academics
 - [gerby-project/gerby-website](https://github.com/gerby-project/gerby-website) - Tag-based webview of LaTeX documents
 - [paolobrasolin/krater](https://github.com/paolobrasolin/krater) - Template to effortlessly build math-rich websites
 - [rustviz/rustviz](https://github.com/rustviz/rustviz) - Interactively Visualizing Ownership and Borrowing for Rust
@@ -1921,6 +1922,7 @@
 - [Tencent/weui](https://github.com/Tencent/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
 - [tc39/ecma262](https://github.com/tc39/ecma262) - Status, process, and documents for ECMA-262
 - [romannurik/LayerVisualizer](https://github.com/romannurik/LayerVisualizer) - A simple web-based 3D layer visualizer (useful for visualizing material UIs and other things involving depth/shadows)
+- [lorien/grab](https://github.com/lorien/grab) - Web Scraping Framework
 - [programble/writ](https://github.com/programble/writ) - Opinionated, classless styles for semantic HTML
 - [reeze/tipi](https://github.com/reeze/tipi) - Thinking In PHP Internals, An open book on PHP Internals
 - [edwardtufte/tufte-css](https://github.com/edwardtufte/tufte-css) - Style your webpage like Edward Tufte’s handouts.
@@ -2317,7 +2319,7 @@
 - [jjoe64/GraphView](https://github.com/jjoe64/GraphView) - Android Graph Library for creating zoomable and scrollable line and bar graphs.
 - [gocd/gocd](https://github.com/gocd/gocd) - Main repository for GoCD - Continuous Delivery server
 - [baasbox/baasbox](https://github.com/baasbox/baasbox) - The BaasBox server
-- [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed SQL database that makes it simple to store and analyze massive amounts of machine data in real-time. Built on top of Lucene.
+- [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed SQL database that makes it simple to store and analyze massive amounts of data in real-time. Built on top of Lucene.
 - [reactive-streams/reactive-streams-jvm](https://github.com/reactive-streams/reactive-streams-jvm) - Reactive Streams Specification for the JVM
 - [jknack/handlebars.java](https://github.com/jknack/handlebars.java) - Logic-less and semantic Mustache templates with Java
 - [FasterXML/jackson-jr](https://github.com/FasterXML/jackson-jr) - Stand-alone data-binding module designed as a light-weight (and -featured) alternative to `jackson-databind`: will only deal with "Maps, Lists, Strings, wrappers and Java Beans" (jr-objects), or simpl
@@ -2451,7 +2453,6 @@
 - [unconed/shadergraph](https://github.com/unconed/shadergraph) - Functional GLSL Linker
 - [unconed/mathbox](https://github.com/unconed/mathbox) - Presentation-quality WebGL math graphing
 - [benswift/benswift.github.io](https://github.com/benswift/benswift.github.io) - Jekyll blog source for my personal homepage
-- [alshedivat/al-folio](https://github.com/alshedivat/al-folio) - A beautiful, simple, clean, and responsive Jekyll theme for academics
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
 - [varkor/quiver](https://github.com/varkor/quiver) - A modern commutative diagram editor for the web.
 - [observablehq/runtime](https://github.com/observablehq/runtime) - The Observable dataflow runtime.
@@ -4246,7 +4247,7 @@
 - [fonsp/Pluto.jl](https://github.com/fonsp/Pluto.jl) - 🎈 Simple reactive notebooks for Julia
 - [MakieOrg/AlgebraOfGraphics.jl](https://github.com/MakieOrg/AlgebraOfGraphics.jl) - Combine ingredients for a plot
 - [sswatson/AsyPlots.jl](https://github.com/sswatson/AsyPlots.jl) - A Julia package for making figures with Asymptote and Cairo
-- [SciML/DifferentialEquations.jl](https://github.com/SciML/DifferentialEquations.jl) - Multi-language suite for high-performance solvers of differential equations and scientific machine learning (SciML) components
+- [SciML/DifferentialEquations.jl](https://github.com/SciML/DifferentialEquations.jl) - Multi-language suite for high-performance solvers of differential equations and scientific machine learning (SciML) components. Ordinary differential equations (ODEs), stochastic differential equation
 - [JuliaDynamics/DynamicalSystems.jl](https://github.com/JuliaDynamics/DynamicalSystems.jl) - Award winning software library for nonlinear dynamics
 - [GiggleLiu/NiLang.jl](https://github.com/GiggleLiu/NiLang.jl) - A differential eDSL that can run faster than light and go back to the past.
 - [chakravala/Ajna.jl](https://github.com/chakravala/Ajna.jl) - Perception & intuition for geometric algebra visualization
@@ -4347,6 +4348,7 @@
 ## Jupyter Notebook 
 
 - [phlippe/uvadlc_notebooks](https://github.com/phlippe/uvadlc_notebooks) - Repository of Jupyter notebook tutorials for teaching the Deep Learning Course at the University of Amsterdam (MSc AI), Fall 2022/Spring 2022
+- [salesforce/LAVIS](https://github.com/salesforce/LAVIS) - LAVIS - A One-stop Library for Language-Vision Intelligence
 - [GQCG/GQCP](https://github.com/GQCG/GQCP) - The Ghent Quantum Chemistry Package for electronic structure calculations
 - [raphlinus/raphlinus.github.io](https://github.com/raphlinus/raphlinus.github.io) - Raph's personal blog
 - [justinpinkney/stable-diffusion](https://github.com/justinpinkney/stable-diffusion) - 
@@ -5419,7 +5421,7 @@
 
 - [fugary/calibre-web-douban-api](https://github.com/fugary/calibre-web-douban-api) - 新版calibre-web已经移除douban-api了，添加一个豆瓣api实现
 - [fugary/calibre-douban](https://github.com/fugary/calibre-douban) - Calibre new douban metadata source plugin. Douban no longer provides book APIs to the public, so it can only use web crawling to obtain data. This is a calibre Douban plugin based on web crawling.
-- [Danmou/onenote_export](https://github.com/Danmou/onenote_export) - This Python script exports all the OneNote notebooks linked to your Microsoft account to HTML files.
+- [danmou/onenote_export](https://github.com/danmou/onenote_export) - This Python script exports all the OneNote notebooks linked to your Microsoft account to HTML files.
 - [zq1997/deepin-wine](https://github.com/zq1997/deepin-wine) - 【deepin源移植】Debian/Ubuntu上最快的QQ/微信安装方式
 - [mli/autocut](https://github.com/mli/autocut) - 用文本编辑器剪视频
 - [daggaz/json-stream](https://github.com/daggaz/json-stream) - 
@@ -5433,7 +5435,6 @@
 - [lucidrains/phenaki-pytorch](https://github.com/lucidrains/phenaki-pytorch) - Implementation of Phenaki Video, which uses Mask GIT to produce text guided videos of up to 2 minutes in length, in Pytorch
 - [lucidrains/make-a-video-pytorch](https://github.com/lucidrains/make-a-video-pytorch) - Implementation of Make-A-Video, new SOTA text to video generator from Meta AI, in Pytorch
 - [UpStride/engine](https://github.com/UpStride/engine) - Upstride computational engine for Geometrical Algebra neural nets
-- [salesforce/LAVIS](https://github.com/salesforce/LAVIS) - LAVIS - A One-stop Library for Language-Vision Intelligence
 - [QUVA-Lab/escnn](https://github.com/QUVA-Lab/escnn) - Equivariant Steerable CNNs Library for Pytorch https://quva-lab.github.io/escnn/
 - [QUVA-Lab/e2cnn](https://github.com/QUVA-Lab/e2cnn) - E(2)-Equivariant CNNs Library for Pytorch
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
@@ -5483,7 +5484,7 @@
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译
 - [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
-- [alipay/Pyraformer](https://github.com/alipay/Pyraformer) - 
+- [ant-research/Pyraformer](https://github.com/ant-research/Pyraformer) - 
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [SunilBoopalan/quantum-chess-Qiskit](https://github.com/SunilBoopalan/quantum-chess-Qiskit) - Quantum Chess.
 - [bilibili/ailab](https://github.com/bilibili/ailab) - 
@@ -5824,7 +5825,7 @@
 - [robsr/pdf-analysis](https://github.com/robsr/pdf-analysis) - Parsing the PDFs and extracting data tables and text out of it.
 - [zopyx/print-css-rocks](https://github.com/zopyx/print-css-rocks) - CSS Paged Media tutorial and review of tools (repository for print-css.rocks)
 - [euske/pdfminer](https://github.com/euske/pdfminer) - Python PDF Parser (Not actively maintained). Check out pdfminer.six.
-- [py-pdf/PyPDF2](https://github.com/py-pdf/PyPDF2) - A pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files
+- [py-pdf/pypdf](https://github.com/py-pdf/pypdf) - A pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files
 - [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 - [chaitin/pro](https://github.com/chaitin/pro) - A crappy tool used in our private PS4 jailbreak
 - [nihilus/Sark](https://github.com/nihilus/Sark) - Easy IDA Pro Scripting Framework
@@ -6026,7 +6027,6 @@
 - [JacobPlaster/ann-writer](https://github.com/JacobPlaster/ann-writer) - An artificial machine learning program that attempts to impersonate the writing style of any given text training set
 - [jcjohnson/cnn-vis](https://github.com/jcjohnson/cnn-vis) - Use CNNs to generate images
 - [Ivaylo-Popov/Theano-Lights](https://github.com/Ivaylo-Popov/Theano-Lights) - Deep learning research framework based on Theano
-- [lorien/grab](https://github.com/lorien/grab) - Web Scraping Framework
 - [ARMmbed/yotta](https://github.com/ARMmbed/yotta) - DEPRECATED: yotta build; better software
 - [QuantumFractal/Data-Structure-Zoo](https://github.com/QuantumFractal/Data-Structure-Zoo) - An educational repo for students looking to learn about data structures in Python
 - [p-e-w/krill](https://github.com/p-e-w/krill) - :newspaper: The hacker's way of keeping up with the world (NO LONGER MAINTAINED)
