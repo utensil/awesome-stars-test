@@ -5416,7 +5416,7 @@
 - [yatima-inc/ZKSnark.lean](https://github.com/yatima-inc/ZKSnark.lean) - https://yatima-inc.github.io/ZKSnark.lean/
 - [chirun-ncl/chirun](https://github.com/chirun-ncl/chirun) - A Python package providing the command line interface for building flexible and accessible content with Chirun.
 - [leanprover-community/lean-liquid](https://github.com/leanprover-community/lean-liquid) - 💧 Liquid Tensor Experiment
-- [yatima-inc/yatima-lang](https://github.com/yatima-inc/yatima-lang) - A verifiable computing language
+- [yatima-inc/yatima](https://github.com/yatima-inc/yatima) - A zero-knowledge Lean4 compiler and kernel
 - [tydeu/lean4-alloy](https://github.com/tydeu/lean4-alloy) - Write shims from within Lean code.
 - [executablebooks/MyST-Parser](https://github.com/executablebooks/MyST-Parser) - An extended commonmark compliant parser, with bridges to docutils/sphinx
 - [cscheid/quarto-explainers](https://github.com/cscheid/quarto-explainers) - porting my jekyll+js stuff to quarto+ojs
@@ -7281,7 +7281,7 @@
 - [superpowers/superpowers-core](https://github.com/superpowers/superpowers-core) - :octopus: Superpowers — Extensible HTML5 app for real-time collaborative projects
 - [mshang/python-elevator-challenge](https://github.com/mshang/python-elevator-challenge) - So You Think You Can Program An Elevator
 - [ruanyf/webpack-demos](https://github.com/ruanyf/webpack-demos) - a collection of simple demos of Webpack
-- [viljamis/feature.js](https://github.com/viljamis/feature.js) - Feature.js is a fast, simple and lightweight browser feature detection library in 1kb.
+- [arielsalminen/feature.js](https://github.com/arielsalminen/feature.js) - Feature.js is a fast, simple and lightweight browser feature detection library in 1kb.
 - [atConf/atswift-2016-resources](https://github.com/atConf/atswift-2016-resources) - Resource files for atswift conference 2016, including keynote, pdf, source projects or playgrounds. 2016中国Swift开发者大会源文件，包括keynote, pdf 和源工程文件
 - [jlevy/og-equity-compensation](https://github.com/jlevy/og-equity-compensation) - Stock options, RSUs, taxes — read the latest edition: www.holloway.com/ec
 - [MauriceGit/Simple_GLSL_Shader_Example](https://github.com/MauriceGit/Simple_GLSL_Shader_Example) - A very simple example of how shaders in OpenGL can be used, to color Objects or map a texture on some triangles.
